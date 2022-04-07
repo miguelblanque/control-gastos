@@ -6,3 +6,6 @@
 
 npm i react-swipeable-list
 npm i prop-types
+npm i react-circular-progressbar
+
+LocalStorage
