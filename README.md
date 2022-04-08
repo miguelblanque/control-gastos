@@ -1,11 +1,9 @@
-# control-gastos
- Aplicacion Control de Gastos con React
+Proyecto Aplicacion Control de Gastos en React con Vite y LocalStorage
 
+![alt text](/src/img/Principal%20Control%20Gastos.png)
 
-
-
+Recursos externos:
 npm i react-swipeable-list
 npm i prop-types
 npm i react-circular-progressbar
 
-LocalStorage
