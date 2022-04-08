@@ -8,7 +8,11 @@ Pantalla de control de gastos en el que se puede Editar, Eliminar o filtrar los 
 
 
 Recursos externos:
+
 npm i react-swipeable-list
+
 npm i prop-types
+
 npm i react-circular-progressbar
+
 
